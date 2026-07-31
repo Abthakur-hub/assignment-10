@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction using Machine Learning
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ This project predicts whether a patient is likely to have heart disease using a 
 
 ---
 
-## 👨‍💻 Author Information
+## Author Information
 
 | Field | Details |
 |-------|---------|

@@ -63,7 +63,7 @@ assignment-10/
 ## Installation
 
 ```bash
-git clone https://github.com/Abthakur-hub/assignment-10.git
+git clone https://github.com/Abthakur-hub/HeartDiseaseDeployment.git
 
 cd assignment-10
 
@@ -78,7 +78,7 @@ python app.py
 
 ### GitHub Repository
 
-https://github.com/Abthakur-hub/assignment-10
+https://github.com/Abthakur-hub/HeartDiseaseDeployment
 
 ### Render Deployment
 

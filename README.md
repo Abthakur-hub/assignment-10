@@ -83,7 +83,7 @@ https://github.com/Abthakur-hub/HeartDiseaseDeployment
 ### Render Deployment
 
 
-https://assignment-10-gi4q.onrender.com
+https://heartdiseasedeployment-2qjf.onrender.com
 
 ---
 
